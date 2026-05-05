@@ -96,13 +96,8 @@ DELETE /livros/1
 ```
 
 ## Filtro por genero
-
 Tambem foi feito o filtro por genero usando Query Params:
 
 ```http
 GET /livros?genero=Fantasia
 ```
-
-## Observacao
-
-Antes de compactar o projeto para entregar, a pasta `node_modules` deve ser removida.
