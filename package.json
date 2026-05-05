@@ -1,0 +1,12 @@
+{
+  "name": "api-acervo-livros",
+  "version": "1.0.0",
+  "description": "API REST com Node.js e Express para gerenciar um acervo de livros em memoria.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
